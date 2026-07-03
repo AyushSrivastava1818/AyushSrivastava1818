@@ -71,7 +71,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushSrivastava1818/AyushSrivastava1818/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AyushSrivastava1818/AyushSrivastava1818/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 ---
 
