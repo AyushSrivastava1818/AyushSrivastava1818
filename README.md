@@ -142,7 +142,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 </p>
 
------
+----
 
 <p align="center">
 
