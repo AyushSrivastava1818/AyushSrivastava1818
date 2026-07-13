@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=First-Year+CSE+Student+%40+IIIT+Kota;Open+Source+Contributor;Backend+Developer+%7C+Data+Analytics+Enthusiast;Building+Projects+That+Solve+Real+Problems;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
 
----
+----
 
 ## 👨‍💻 About Me
 
