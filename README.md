@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=First-Year+CSE+Student+%40+IIIT+Kota;Open+Source+Contributor;Backend+Developer+%7C+Data+Analytics+Enthusiast;Building+Projects+That+Solve+Real+Problems;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
 
-----
+---
 
 ## 👨‍💻 About Me
 
@@ -15,7 +15,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 - 💼 Open to internships, collaborations & exciting opportunities
 - 🧠 Interested in **Backend Development, AI, Data Analytics, Open Source & System Design**
 
-----
+---
 
 # ⭐ LATEST PROJECTS
 
@@ -23,7 +23,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 |---|---|
 | **[CareerOS](https://github.com/AyushSrivastava1818/CareerOS)**<br/>An AI-powered platform helping students manage their careers through AI Roadmaps, Resume Evolution, Interview Prep, Project Tracking and more.<br/><br/>![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | **[SQL Layoffs Data Analysis](https://github.com/AyushSrivastava1818/SQL-Layoffs-Data-Analysis)**<br/>Complete exploratory data analysis using PostgreSQL with CTEs, Window Functions, Joins and Business Insights.<br/><br/>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 
-----
+---
 
 # 🔥 MORE PROJECTS
 
@@ -44,7 +44,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 > ⭐ Check out my pinned repositories below for complete source code & demos.
 
-----
+---
 
 # 🏆 HIGHLIGHTS
 
@@ -52,7 +52,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 |---|---|---|---|
 | Multiple merged contributions across popular repositories | SQL, PostgreSQL & Business Analytics Projects | Learning Node.js, Express & MongoDB | Solving coding problems consistently |
 
-----
+---
 
 # 📊 GITHUB STATS
 
@@ -66,7 +66,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 <img src="https://streak-stats.demolab.com?user=AyushSrivastava1818&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30"/>
 </p>
 
-----
+---
 
 # 🐍 CONTRIBUTION SNAKE
 
