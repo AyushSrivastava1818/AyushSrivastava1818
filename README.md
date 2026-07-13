@@ -19,9 +19,9 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 # ⭐ LATEST PROJECTS
 
-| 🚀 **CareerOS** | 📊 **SQL Layoffs Analysis** |
+| 🌊 **Numaflow** | 📊 **SQL Layoffs Analysis** |
 |---|---|
-| **[CareerOS](https://github.com/AyushSrivastava1818/CareerOS)**<br/>An AI-powered platform helping students manage their careers through AI Roadmaps, Resume Evolution, Interview Prep, Project Tracking and more.<br/><br/>![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | **[SQL Layoffs Data Analysis](https://github.com/AyushSrivastava1818/SQL-Layoffs-Data-Analysis)**<br/>Complete exploratory data analysis using PostgreSQL with CTEs, Window Functions, Joins and Business Insights.<br/><br/>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[Numaflow Contributions](https://github.com/numaproj/numaflow)**<br/>Contributed to the CNCF Numaflow project by implementing Pulsar features, improving developer experience, enhancing workflow automation, writing tests, and fixing production issues across Go and Rust components.<br/><br/>![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **[SQL Layoffs Data Analysis](https://github.com/AyushSrivastava1818/SQL-Layoffs-Data-Analysis)**<br/>Complete exploratory data analysis using PostgreSQL with CTEs, Window Functions, Joins, Subqueries, and Business Insights.<br/><br/>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
