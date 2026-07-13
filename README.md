@@ -27,20 +27,15 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 # 🔥 MORE PROJECTS
 
-| 🤖 **Gesture Recognition** | 🌤 **AirAtlas** | 📦 **cmd-tracker** |
+| 🌊 **Numaflow** | 🌐 **ToolJet** | 📦 **cmd-tracker** |
 |---|---|---|
-| AI-powered hand gesture recognition system built with OpenCV and MediaPipe. | Interactive Air Quality & Weather Dashboard built using React. | Secure command history tracker with multiple open-source improvements. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| Contributed to the CNCF Numaflow project by improving developer experience, Pulsar functionality, documentation, and workflow automation. | Improved the Google Sheets plugin UX and enhanced developer experience through TypeScript and React improvements. | Enhanced a secure command history tracker by removing unsafe shell hooks, improving CLI behavior, CI workflows, and documentation. |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 
-| 🌊 **Numaflow** | 🎙 **Freestyle** | 🎓 **CampusCompass** |
+| 🌤 **AirAtlas** | 🤖 **Gesture Recognition** | 🎨 **Skillware** |
 |---|---|---|
-| Contributed to the CNCF Numaflow project by improving developer experience, documentation, and workflow automation in a cloud-native data processing platform. | Audio visualization & accessibility improvements. | Student-focused planner with multiple documentation improvements. |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-| 🌐 **ToolJet Contributions** |
-|---|
-| Improved the Google Sheets plugin UX and enhanced open-source developer experience through UI and workflow refinements. |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Interactive Air Quality & Weather Dashboard built with React and weather APIs. | AI-powered hand gesture recognition system built using OpenCV and MediaPipe. | Added a local AI background-removal skill using **rembg**, ONNX Runtime, comprehensive tests, documentation, and review-driven improvements. |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) |
 
 > ⭐ Check out my pinned repositories below for complete source code & demos.
 
