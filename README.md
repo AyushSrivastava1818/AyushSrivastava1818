@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=First-Year+CSE+Student+%40+IIIT+Kota;Open+Source+Contributor;Backend+Developer+%7C+Data+Analytics+Enthusiast;Building+Projects+That+Solve+Real+Problems;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
 
----
+----
 
 ## 👨‍💻 About Me
 
@@ -15,7 +15,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 - 💼 Open to internships, collaborations & exciting opportunities
 - 🧠 Interested in **Backend Development, AI, Data Analytics, Open Source & System Design**
 
-----
+-----
 
 # ⭐ LATEST PROJECTS
 
@@ -23,7 +23,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 |---|---|
 | **[Numaflow Contributions](https://github.com/numaproj/numaflow)**<br/>Contributed to the CNCF Numaflow project by implementing Pulsar features, improving developer experience, enhancing workflow automation, writing tests, and fixing production issues across Go and Rust components.<br/><br/>![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **[Skillware](https://github.com/SkillWare-AI/skillware)**<br/>Developed an AI-powered background removal skill using **rembg** and **ONNX Runtime**, added comprehensive tests and documentation, and collaborated through code reviews to improve the open-source AI automation platform.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
 
-----
+-----
 
 # 🔥 MORE PROJECTS
 
@@ -39,7 +39,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 > ⭐ Check out my pinned repositories below for complete source code & demos.
 
----
+-----
 
 # 🏆 HIGHLIGHTS
 
@@ -47,7 +47,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 |---|---|---|---|
 | Multiple merged contributions across popular repositories | SQL, PostgreSQL & Business Analytics Projects | Learning Node.js, Express & MongoDB | Solving coding problems consistently |
 
----
+-----
 
 # 📊 GITHUB STATS
 
@@ -61,7 +61,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 <img src="https://streak-stats.demolab.com?user=AyushSrivastava1818&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30"/>
 </p>
 
----
+-----
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -109,7 +109,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+-----
 
 # 📫 CONNECT WITH ME
 
@@ -137,7 +137,7 @@ I'm a passionate Computer Science student at **IIIT Kota** who loves building im
 
 </p>
 
-----
+------
 
 <p align="center">
 
