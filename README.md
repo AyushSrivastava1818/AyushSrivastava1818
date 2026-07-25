@@ -9,7 +9,7 @@
 CSE student at **IIIT Kota**, backend-focused, actively contributing to CNCF's **Numaflow**. I like working close to real systems — streaming, Kubernetes-native infra, and developer tooling — and I learn fastest by shipping PRs into codebases I don't own yet.
 
 - 🔭 Currently building **CareerOS** (an AI-powered career platform) and contributing to **Numaflow (CNCF)**
-- 🌊 **5 merged PRs in Numaflow** — Pulsar consumer dead-letter policy, redelivery delay, nack-option handling, and vertex health reporting
+- 🌊 **4 merged PRs in Numaflow** — Pulsar consumer dead-letter policy, redelivery delay, nack-option handling, and vertex health reporting
 - 🌍 **~30 merged PRs across 15+ repositories** — every PR I've opened has landed, either merged directly or merged after addressing review feedback in a follow-up commit or branch
 - 📊 Comfortable with SQL, PostgreSQL, Python, and Excel for data-side work
 - 💻 Solving DSA problems daily
@@ -45,7 +45,8 @@ Built an offline/local AI background-removal skill using **rembg** and **ONNX Ru
 `Python` `ONNX` `Pytest`
 
 ### 🚀 CareerOS — Personal Project
-AI-powered career platform I'm actively building. *(One-liner on current scope/stage goes here.)*
+AI-powered career platform I'm actively building. 
+Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for code, LeetCode for DSA, Notion for notes, resumes in Google Docs, internships on different job boards. CareerOS brings everything into one place and uses AI to guide students through their career journey.
 
 ------
 
