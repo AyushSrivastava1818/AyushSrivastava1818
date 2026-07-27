@@ -84,7 +84,7 @@ Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushSrivastava1818" />
+  <img src="https://streak-stats.demolab.com/?user=AyushSrivastava1818&theme=tokyonight" />
 </p>
 
 ------
