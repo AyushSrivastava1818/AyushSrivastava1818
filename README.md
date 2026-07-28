@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=First-Year+CSE+Student+%40+IIIT+Kota;CNCF+Numaflow+Contributor+%E2%80%94+4+merged+PRs;Backend+Developer+%7C+Systems+%26+Data;Building+CareerOS+%E2%80%94+an+AI-powered+career+platform;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
 
-------
+-----
 
 ## 👨‍💻 About Me
 
@@ -15,7 +15,7 @@ CSE student at **IIIT Kota**, backend-focused, actively contributing to CNCF's *
 - 💻 Solving DSA problems daily
 - 💼 Open to internships, mentorships (LFX), and collaborations
 
--------
+------
 
 # ⭐ FEATURED WORK
 
@@ -48,7 +48,7 @@ Built an offline/local AI background-removal skill using **rembg** and **ONNX Ru
 AI-powered career platform I'm actively building. 
 Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for code, LeetCode for DSA, Notion for notes, resumes in Google Docs, internships on different job boards. CareerOS brings everything into one place and uses AI to guide students through their career journey.
 
--------
+------
 
 # 🔥 MORE CONTRIBUTIONS
 
@@ -66,7 +66,7 @@ Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for 
 
 > Full history in the [PR activity tab](https://github.com/pulls?q=is%3Apr+author%3AAyushSrivastava1818).
 
--------
+------
 
 # 🏆 HIGHLIGHTS
 
