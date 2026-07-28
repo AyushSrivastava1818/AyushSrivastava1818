@@ -15,7 +15,7 @@ CSE student at **IIIT Kota**, backend-focused, actively contributing to CNCF's *
 - 💻 Solving DSA problems daily
 - 💼 Open to internships, mentorships (LFX), and collaborations
 
-------
+-----
 
 # ⭐ FEATURED WORK
 
@@ -48,7 +48,7 @@ Built an offline/local AI background-removal skill using **rembg** and **ONNX Ru
 AI-powered career platform I'm actively building. 
 Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for code, LeetCode for DSA, Notion for notes, resumes in Google Docs, internships on different job boards. CareerOS brings everything into one place and uses AI to guide students through their career journey.
 
-------
+-----
 
 # 🔥 MORE CONTRIBUTIONS
 
@@ -66,7 +66,7 @@ Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for 
 
 > Full history in the [PR activity tab](https://github.com/pulls?q=is%3Apr+author%3AAyushSrivastava1818).
 
-------
+-----
 
 # 🏆 HIGHLIGHTS
 
@@ -87,7 +87,7 @@ Every student uses 10+ disconnected tools—LinkedIn for networking, GitHub for 
   <img src="https://streak-stats.demolab.com/?user=AyushSrivastava1818&theme=tokyonight" />
 </p>
 
-------
+-----
 
 # 🐍 CONTRIBUTION SNAKE
 
