@@ -1,6 +1,6 @@
 ![banner](banner_2_.png)
 
-**Open Source Contributor / Building, breaking, shipping.**  [Email](mailto:ayush.sri0705@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ayush-srivastava-5a6ba9383/) · [GitHub](https://github.com/AyushSrivastava1818) · [LeetCode](https://leetcode.com/u/Ayush_Srivastavaaaa18/)
+**Open Source Contributor / Building, breaking, shipping.**
 
 I'm a first-year CSE student building backend systems and contributing to Kubernetes-ecosystem, CNCF projects.
 
