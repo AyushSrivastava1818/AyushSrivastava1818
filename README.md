@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banneer(2).png" alt="Banner" width="100%">
+  <img src="./banner(2).png" alt="Banner" width="100%">
 </p>
 
 **Open Source Contributor / Building, breaking, shipping.**
