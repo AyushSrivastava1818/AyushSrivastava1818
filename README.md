@@ -6,7 +6,7 @@
 
 I'm a first-year CSE student building backend systems and contributing to Kubernetes-ecosystem, CNCF projects.
 
-- Contributor · **Numaflow (KUBERNETES)** - 4 merged PRs: Pulsar dead-letter-queue policy, redelivery delay handling, nack-option logging, vertex health reporting
+- Contributor · **Numaflow (KUBERNETES)** - 5 merged PRs: Pulsar dead-letter-queue policy, redelivery delay handling, nack-option logging, vertex health reporting
 - Contributor · HAMi (CNCF) - contributed scheduler and device-plugin reliability fixes, including node state isolation and gRPC stream error handling
 - Open PRs · **OpenYurt**, **Apicurio** - under maintainer review
 - **30+ merged pull requests** across 15+ repositories
