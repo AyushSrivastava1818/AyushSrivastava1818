@@ -29,12 +29,3 @@ I'm a first-year CSE student building backend systems and contributing to Kubern
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="./profile-summary-card-output/github-profile-summary-card.svg" width="95%">
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/stats.svg" width="45%">
-  <img src="./profile-summary-card-output/repos-per-language.svg" width="45%">
-</p>
