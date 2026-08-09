@@ -30,9 +30,11 @@ I'm a first-year CSE student building backend systems and contributing to Kubern
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="./profile-summary-card-output/github-profile-summary-card.svg" width="95%">
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSrivastava1818&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSrivastava1818&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="./profile-summary-card-output/stats.svg" width="45%">
+  <img src="./profile-summary-card-output/repos-per-language.svg" width="45%">
 </p>
