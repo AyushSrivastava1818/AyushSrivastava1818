@@ -29,3 +29,16 @@ I'm a first-year CSE student building backend systems and contributing to Kubern
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=AyushSrivastava1818&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=AyushSrivastava1818&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
