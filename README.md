@@ -7,7 +7,7 @@
 I'm a second-year CSE student building backend systems and contributing to the Kubernetes ecosystem and open-source projects.
 
 - **CNCF Contributor** — HAMi, Apicurio Registry & OpenYurt
-- **HAMi** — Contributed scheduler and device-plugin reliability fixes across node lifecycle, device health, stale state, allocation reconciliation, and concurrency
+- **HAMi** —8+ merged PRs Contributed scheduler and device-plugin reliability fixes across node lifecycle, device health, stale state, allocation reconciliation, and concurrency
 - **Numaflow Contributor** — 5+ merged PRs across Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
 - **30+ merged PRs** across **15+ open-source repositories**
 - **450+ GitHub contributions** and growing through active upstream development
