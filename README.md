@@ -10,7 +10,7 @@ I'm a second-year CSE student building backend systems and contributing to the K
 - **HAMi** —8+ merged PRs Contributed scheduler and device-plugin reliability fixes across node lifecycle, device health, stale state, allocation reconciliation, and concurrency
 - **Numaflow Contributor** — 5+ merged PRs across Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
 - **35+ merged PRs** across **15+ open-source repositories**
-- **450+ GitHub contributions** and growing through active upstream development
+- **500+ GitHub contributions** and growing through active upstream development
 - **Building CareerOS** — an AI-powered platform unifying the disconnected tools students use throughout their career journey
 - **B.Tech CSE @ IIIT Kota, Class of 2029**
 
