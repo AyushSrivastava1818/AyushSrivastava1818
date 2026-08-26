@@ -4,15 +4,16 @@
 
 ### Open Source Contributor / Building, breaking, shipping.
 
-I'm a second-year CSE student building backend systems and contributing to the Kubernetes ecosystem and open-source projects.
+I'm a second-year CSE student focused on building backend systems and contributing to the Kubernetes and open-source ecosystem.
 
-- **CNCF Contributor** — HAMi, Apicurio Registry & OpenYurt
-- **HAMi** —11+ merged PRs Contributed scheduler and device-plugin reliability fixes across node lifecycle, device health, stale state, allocation reconciliation, and concurrency
-- **Numaflow Contributor** — 5+ merged PRs across Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
-- **40+ merged PRs** across **15+ open-source repositories**
-- **500+ GitHub contributions** and growing through active upstream development
-- **Building CareerOS** — an AI-powered platform unifying the disconnected tools students use throughout their career journey
-- **B.Tech CSE @ IIIT Kota, Class of 2029**
+* **CNCF Contributor** — HAMi, Numaflow, Apicurio Registry & OpenYurt
+* **HAMi** — 11+ merged PRs addressing scheduler and device-plugin reliability across node lifecycle, device health, stale state, allocation reconciliation, concurrency, and GPU resource validation
+* **Numaflow** — 5+ merged PRs covering Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
+* **40+ merged PRs** across **15+ open-source repositories**, with contributions spanning Kubernetes infrastructure, distributed systems, networking, and backend reliability
+* **500+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
+* **Building CareerOS** — an AI-powered platform designed to unify the disconnected tools students use throughout their career journey
+* **B.Tech CSE @ IIIT Kota, Class of 2029**
+
 
 **Tech Stack**
 &nbsp;
