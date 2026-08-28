@@ -10,7 +10,7 @@ I'm a second-year CSE student focused on building backend systems and contributi
 * **HAMi** - 13+ merged PRs addressing scheduler and device-plugin reliability across node lifecycle, device health, stale state, allocation reconciliation, concurrency, and GPU resource validation
 * **Numaflow** - 5+ merged PRs covering Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
 * **40+ merged PRs** across **15+ open-source repositories**, with contributions spanning Kubernetes infrastructure, distributed systems, networking, and backend reliability
-* **500+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
+* **550+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
 * **B.Tech CSE @ IIIT Kota, Class of 2029**
 
 
