@@ -2,16 +2,16 @@
   <img src="./banner(2).png" alt="Banner" width="100%">
 </p>
 
-### Open Source Contributor / Building, breaking, shipping.
+## Open Source Contributor / Building, breaking, shipping.
 
 I'm a second-year CSE student focused on building backend systems and contributing to the Kubernetes and open-source ecosystem.
 
-* **CNCF Contributor** - HAMi, Numaflow, Apicurio Registry & OpenYurt
-* **HAMi** - 13+ merged PRs addressing scheduler and device-plugin reliability across node lifecycle, device health, stale state, allocation reconciliation, concurrency, and GPU resource validation
-* **Numaflow** - 5+ merged PRs covering Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
-* **40+ merged PRs** across **15+ open-source repositories**, with contributions spanning Kubernetes infrastructure, distributed systems, networking, and backend reliability
-* **550+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
-* **B.Tech CSE @ IIIT Kota, Class of 2029**
+- **CNCF Contributor** - HAMi, Numaflow, Apicurio Registry & OpenYurt
+- **HAMi Community Member** - 13+ merged PRs addressing scheduler and device-plugin reliability across node lifecycle, device health, stale state, allocation reconciliation, concurrency, and GPU resource validation
+- **Numaflow** - 5+ merged PRs covering Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
+- **40+ merged PRs** across 15+ open-source repositories, with contributions spanning Kubernetes infrastructure, distributed systems, networking, and backend reliability
+- **550+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
+- **B.Tech CSE @ IIIT Kota, Class of 2029**
 
 
 **Tech Stack**
