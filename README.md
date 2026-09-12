@@ -2,16 +2,16 @@
   <img src="./banner(2).png" alt="Banner" width="100%">
 </p>
 
-## Open Source Contributor / Building, breaking, shipping.
+## Open Source Contributor | Backend & Cloud-Native Systems
 
-I'm a second-year CSE student focused on building backend systems and contributing to the Kubernetes and open-source ecosystem.
+I'm a second-year CSE student at IIIT Kota, focused on building reliable backend systems and contributing to the Kubernetes and broader CNCF ecosystem.
 
-- **CNCF Contributor** - HAMi, Numaflow, Apicurio Registry & OpenYurt
-- **HAMi Community Member** - 14+ merged PRs addressing scheduler and device-plugin reliability across node lifecycle, device health, stale state, allocation reconciliation, concurrency, and GPU resource validation
-- **Numaflow** - 5+ merged PRs covering Pulsar, SQS, NACK handling, redelivery/dead-letter behavior, vertex health, and autoscaling
-- **40+ merged PRs** across 15+ open-source repositories, with contributions spanning Kubernetes infrastructure, distributed systems, networking, and backend reliability
-- **600+ GitHub contributions** through consistent upstream development, bug investigation, code reviews, testing, and maintenance
-- **B.Tech CSE @ IIIT Kota, Class of 2029**
+* **HAMi CNCF Member** — Contributing to scheduler and device-plugin reliability, resource validation, allocation reconciliation, and node lifecycle handling
+* **CNCF Contributor** — Contributed to HAMi, Numaflow, Apicurio Registry & OpenYurt across Kubernetes infrastructure and cloud-native systems
+* **20+ merged PRs** across CNCF repositories, spanning scheduling, device plugins, distributed systems, networking, and backend reliability
+* **40+ merged PRs** across 15+ open-source repositories, covering bug fixes, reliability improvements, testing, and system-level issues
+* **600+ GitHub contributions** through upstream development, debugging, code reviews, testing, and maintenance
+* **B.Tech CSE @ IIIT Kota, Class of 2029**
 
 
 **Tech Stack**
