@@ -32,13 +32,6 @@ I'm a second-year CSE student at IIIT Kota, focused on building reliable backend
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=AyushSrivastava1818&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
   <img
     src="https://github-stats-extended.vercel.app/api?username=AyushSrivastava1818&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
