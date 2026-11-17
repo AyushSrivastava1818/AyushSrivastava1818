@@ -7,7 +7,7 @@
 I'm a second-year CSE student at IIIT Kota, focused on building reliable backend systems and contributing to the Kubernetes and broader CNCF ecosystem.
 
 * **HAMi CNCF Member** — Contributing to GPU virtualization, scheduler reliability, memory reservation, MIG device allocation, and admission webhooks
-* **22 Merged PRs in HAMi** — Core contributions across `Project-HAMi/HAMi` (27 merged across the HAMi ecosystem including `volcano-vgpu-device-plugin`)
+* **22 Merged PRs in HAMi** — Core contributions across `Project-HAMi/HAMi` (29 merged across the HAMi ecosystem including `volcano-vgpu-device-plugin`)
 * **30+ Merged PRs in CNCF** — Contributed to HAMi, Numaflow, Apicurio Registry & OpenYurt across Kubernetes scheduling, stream processing, and edge systems
 * **60+ Merged PRs across 20+ Repositories** — Upstream contributions spanning Kubernetes (`k8s/kubernetes`, `k8s-sigs/headlamp`), Volcano, and Kornia
 * **800+ GitHub Contributions** through upstream development, debugging, code reviews, testing, and maintenance
