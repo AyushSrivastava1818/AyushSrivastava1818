@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner(2).png" alt="Banner" width="100%">
-</p>
-
 ## Open Source Contributor | Backend & Cloud-Native Systems
 
 I'm a second-year CSE student at IIIT Kota, focused on building reliable backend systems and contributing to the Kubernetes and broader CNCF ecosystem.
